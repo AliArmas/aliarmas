@@ -7,10 +7,9 @@
 <img src="https://media.giphy.com/media/nAErqE3k2C3fy/giphy.gif" width="80">
 
 
-`Linux` `C++` `Python` `JS` 
+`Linux` `C++` `Python` `JS` `Java` 
 <!--[![GitHub AliArmas](https://img.shields.io/github/followers/AliArmas?label=follow&style=social)](https://github.com/AliArmas)
 -->
-
 
 
 <br><br><br><br>
