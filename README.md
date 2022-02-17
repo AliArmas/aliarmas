@@ -1,5 +1,5 @@
  <h2>Hey, I'm Ali Armas</h2>
-<img align='right' src="" width="230">
+<img align='right' src="https://github.com/AliArmas/aliarmas/blob/main/Captura%20de%20pantalla%20de%202021-07-08%2013-52-31.png" width="230">
 
 
 ### Full snack developer :ghost:
